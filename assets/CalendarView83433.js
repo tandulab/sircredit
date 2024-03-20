@@ -1,1 +1,0 @@
-import{A as o}from"./AppointmentCalendar83433.js";import{_ as a,c as r,w as s,r as t,o as c,b as p}from"../index83433.js";const _={setup(){return{}},components:{AppointmentCalendar:o}};function m(d,i,l,C,f,u){const e=t("AppointmentCalendar"),n=t("Card");return c(),r(n,{class:"m-4 pt-3"},{content:s(()=>[p(e)]),_:1})}const $=a(_,[["render",m]]);export{$ as default};
